@@ -17,18 +17,16 @@
     will eventually be written in JavaScript.”<br/>
                                     Jeff Atwood
 </p>
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaz-Rzayev&theme=tokyonight" />
-
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaz-Rzayev&theme=tokyonight" />
+</div>
 
 <br/>
 
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-<img src ="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Ayaz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777"/>
+<img  align="center" height="400" src ="https://wakatime.com/share/@Ayaz/3b508599-2549-480e-bb1c-6a7e23c9f03f.svg"/>
 <!--END_SECTION:waka-->
 <br/>
 
