@@ -13,16 +13,9 @@
 <br/>
 
 <p>
-  “Any application that can be written in JavaScript, <br/>
-    will eventually be written in JavaScript.”<br/>
-                                    Jeff Atwood
+  “Any application that can be written in <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>, <br/>
+    will eventually be written in <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>.”<br/>
 </p>
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaz-Rzayev&theme=tokyonight" />
-</div>
-
-<br/>
-
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
@@ -30,22 +23,6 @@
 JavaScript   9 mins          █████████████████████████   99.82 % 
 ```
 <!--END_SECTION:waka-->
-<br/>
 
 
-
-
-**languages and tools:**  
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<!-- 
-972a58ea-0ea7-4f2d-a259-89067801c6b1
- -->
 <img src="https://github-readme-stats.vercel.app/api?username=Ayaz-Rzayev&show_icons=true&theme=tokyonight"/>
