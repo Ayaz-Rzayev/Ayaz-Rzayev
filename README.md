@@ -13,22 +13,28 @@
 <br/>
 
 <p>
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta et ipsa fugiat illum distinctio amet, sint culpa voluptates voluptas ut praesentium veniam sed officia fugit laudantium. Commodi, alias ea. Ea.
+  “Any application that can be written in JavaScript, <br/>
+    will eventually be written in JavaScript.”<br/>
+                                    Jeff Atwood
 </p>
 
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaz-Rzayev&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api?username=Ayaz-Rzayev&show_icons=true&theme=tokyonight"/>
+
 
 <br/>
 
 
-<!-- 📊 **Weekly development breakdown**
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Ayaz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<img src ="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Ayaz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777"/>
 <!--END_SECTION:waka-->
- -->
+<br/>
+
+
+
+
 **languages and tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -42,3 +48,4 @@
 <!-- 
 972a58ea-0ea7-4f2d-a259-89067801c6b1
  -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ayaz-Rzayev&show_icons=true&theme=tokyonight"/>
