@@ -26,7 +26,9 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-<img  align="center" height="400" src ="https://wakatime.com/share/@Ayaz/3b508599-2549-480e-bb1c-6a7e23c9f03f.svg"/>
+```text
+JavaScript   9 mins          █████████████████████████   99.82 % 
+```
 <!--END_SECTION:waka-->
 <br/>
 
