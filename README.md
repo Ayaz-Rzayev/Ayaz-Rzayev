@@ -31,4 +31,4 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayaz-Rzayev&show_icons=true&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ayaz-Rzayev&show_icons=true&theme=tokyonight"/> -->
